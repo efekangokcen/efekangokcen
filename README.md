@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/efekangokcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efekangokcen" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/efekangokcen](https://www.linkedin.com/in/efekan-g%C3%B6kcen-808a2824b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efekangokcen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
