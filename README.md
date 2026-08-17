@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ali Efekan Gökcen</h1>
-<h3 align="center">Software Developer | Business & Systems Analyst | Full-Stack Web & ERP/CRM Architect</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Efekan+G%C3%B6kcen;Software+Developer+%26+Systems+Analyst;Full-Stack+Web+%26+ERP%2FCRM+Architect;Founder+at+Sports+Simulation+Studios" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/efekangokcen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -77,11 +78,10 @@ I am a **Management Information Systems (MIS)** graduate software developer and 
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efekangokcen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ali Efekan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efekangokcen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efekangokcen&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Ali Efekan's Contribution Graph" />
 </p>
 
 ---
@@ -91,13 +91,3 @@ I am a **Management Information Systems (MIS)** graduate software developer and 
 - 💼 **LinkedIn**: [linkedin.com/in/efekangokcen](https://www.linkedin.com/in/efekangokcen/)
 - 📧 **Email**: [efekangokcen@gmail.com](mailto:efekangokcen@gmail.com)
 - 📍 **Location**: Denizli, Türkiye
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efekangokcen/efekangokcen/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efekangokcen/efekangokcen/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/efekangokcen/efekangokcen/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
